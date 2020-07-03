@@ -1,0 +1,2 @@
+# bado
+Hablar con personas
